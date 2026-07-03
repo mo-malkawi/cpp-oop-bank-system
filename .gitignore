@@ -1,20 +1,5 @@
-# Visual Studio
-.vs/
-*.vcxproj
-*.vcxproj.filters
 *.vcxproj.user
-*.sln
 Debug/
 Release/
 x64/
-x86/
-ipch/
-*.pch
-*.ipch
-
-# Compiled output
-*.exe
-*.obj
-*.ilk
-*.pdb
-*.idb
+.vs/
