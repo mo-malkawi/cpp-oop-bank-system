@@ -18,9 +18,3 @@ ipch/
 *.ilk
 *.pdb
 *.idb
-
-# Data files (optional - remove if you want to include sample data)
-Clients.txt
-Users.txt
-TransferLog.txt
-LoginRegister.txt
