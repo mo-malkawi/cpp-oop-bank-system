@@ -71,7 +71,7 @@ Uses personal utility libraries:
 ## How to Run
 1. Place all `.h` files and the utility libraries in the same directory
 2. Compile:
-3. Run: data files are created automatically on first use
+3. Run, data files are created automatically on first use
 
 ## Technologies
 C++, OOP, Inheritance, File Handling (fstream), Bitwise Operations, Vectors, Static Classes
